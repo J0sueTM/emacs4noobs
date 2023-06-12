@@ -1,7 +1,6 @@
 <div align="center">
   <img src="img/emacs-logo.png" width="200px">
   <h1 align="center">Emacs 4 Noobs</h1>
-  <hr>
   <p align="center">Criado pela referência no mundo Open Source, Richard Stallman, Emacs é uma ferramenta milenar indispensável, que pode melhorar a produtividade de qualquer programador, tanto o Fulano que acabou de começar a faculdade de TI, o beltrano que programa há 20 anos e o Sicrano que é professor de Filosofia e nunca pisou fora do Microsoft Word.</p>
 </div>
 
