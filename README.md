@@ -25,7 +25,7 @@
 3. Configurando o Emacs
 4. Instalando pacotes
 
-### Intermediário
+### Avançado
 
 1. Modularizando sua configuração
 2. Construindo seu primeiro plugin para Emacs
