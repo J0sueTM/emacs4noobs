@@ -1,7 +1,7 @@
 <div align="center">
   <img src="img/emacs-logo.png" width="200px">
   <h1 align="center">Emacs 4 Noobs</h1>
-  <p align="left">Referência no mundo Open Source, Emacs é uma ferramenta milenar indispensável, que pode melhorar a produtividade de qualquer programador, tanto o Fulano que acabou de começar a faculdade de TI, o beltrano que programa há 20 anos e o Sicrano que é professor de Filosofia e nunca pisou fora do Microsoft Word.</p>
+  <p align="left">Sendo referência no mundo Open Source, Emacs é uma ferramenta milenar indispensável, que pode melhorar a produtividade de qualquer programador, tanto o Fulano que acabou de começar a faculdade de TI, o beltrano que programa há 20 anos e o Sicrano que é professor de Filosofia e nunca pisou fora do Microsoft Word.</p>
 </div>
 
 ## ROADMAP
@@ -33,7 +33,7 @@
 
 ## Como contribuir
 
-Contribuições fazem com que a comunidade *Open Source* seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são **extremamente apreciadas**.
+Contribuições fazem com que a comunidade *Open Source* seja um lugar incrível para aprender, inspirar e criar. Todas as contribuições serão **extremamente apreciadas**.
 
 - Crie um fork do repositório
 - Crie um branch com a nova feature `git checkout -b feature/nome-da-feature`
