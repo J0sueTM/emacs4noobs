@@ -42,7 +42,7 @@ Foi a partir da versão de Gosling que Richard Stallman, anteriormente citado co
 
 <img align="center" src="../img/intro/historia/emacs_screenshot.png">
 
-Acredito que este curto resuma tenha trazido um pouco do contexto da criação do Emacs. Lembre-se, daqui para frente, qualquer menção ao **Emacs**, estou me referindo especificamente ao **GNU Emacs**.
+Acredito que este curto resumo tenha trazido um pouco do contexto da criação do Emacs. Lembre-se, daqui para frente, qualquer menção ao **Emacs**, estou me referindo especificamente ao **GNU Emacs**.
 
 <div align="center" markdown=1>
     <a href="README.md">&#129168; Introdução</a>
