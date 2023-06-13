@@ -9,7 +9,7 @@
 ### [Introdução](intro/README.md)
 
 1. [História](intro/historia.md)
-2. Antes de começar
+2. [Antes de começar](intro/antes-de-comecar.md)
 
 ### Básico
 
