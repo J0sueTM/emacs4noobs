@@ -11,9 +11,9 @@
 1. [História](intro/historia.md)
 2. [Antes de começar](intro/antes-de-comecar.md)
 
-### Básico
+### [Básico](basico/README.md)
 
-1. Como o Emacs funciona
+1. [Como o Emacs funciona](basico/como-o-emacs-funciona.md)
 2. Key bindings
 3. Buffers
 4. Command buffer

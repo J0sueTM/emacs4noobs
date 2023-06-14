@@ -47,6 +47,8 @@ Acredito que este curto resumo tenha trazido um pouco do contexto da criação d
 <div align="center" markdown=1>
     <a href="README.md">&#129168; Introdução</a>
     ·
+    <a href="../README.md">Home</a>
+    ·
     <a href="antes-de-comecar.md">Antes de começar &#129170;</a>
 </div>
 

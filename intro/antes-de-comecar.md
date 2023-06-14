@@ -117,6 +117,8 @@ Espero que este tutorial tenha te ajudado a instalar o Emacs no seu sistema. Cas
 <div align="center" markdown=1>
     <a href="historia.md">&#129168; História</a>
     ·
+    <a href="../README.md">Home</a>
+    ·
     <a href="../basico/README.md">Básico &#129170;</a>
 </div>
 
