@@ -14,7 +14,7 @@
 ### [Básico](basico/README.md)
 
 1. [Como o Emacs funciona](basico/como-o-emacs-funciona.md)
-2. Key bindings
+2. [Key bindings](basico/key-bindings.md)
 3. Buffers
 4. Command buffer
 

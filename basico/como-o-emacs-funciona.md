@@ -38,5 +38,5 @@ Essa introdução foi um "por baixo dos panos" por trás do editor. Vamos a segu
     ·
     <a href="../README.md">Home</a>
     ·
-    <a href="keybindings.md">Key Bindings &#129170;</a>
+    <a href="key-bindings.md">Key Bindings &#129170;</a>
 </div>
