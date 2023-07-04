@@ -2,7 +2,7 @@
 
 Segura o coração que lá vem mais macros. Como eu disse na parte anterior, o Emacs possui uma macro pra praticamente qualquer coisa; e se não tem, pra criar outro é 2 palito (vamos ver isso na seção avançado). Vamos aprender, agora, sobre um dos blocos fundamentais do Emacs, as Janelas e os Buffers.
 
-Os buffers são basicamente camadas de visualização do conteúdo de um arquivo. Não entendeu? kkk não se preocupe, vou lhe explicar um pouco melhor. Quando você abre um arquivo no Emacs (KeyBinding abaixo), o artefato de visualização desse arquivo é aberto em uma janela, mas a janela em si é a mesma coisa que o buffer. O buffer está contido na janela, mas a janela é existente por si só.
+Os buffers são basicamente camadas de visualização do conteúdo de um arquivo. Não entendeu? kkk não se preocupe, vou lhe explicar um pouco melhor. Quando você abre um arquivo no Emacs (KeyBinding abaixo), o artefato de visualização desse arquivo é aberto em uma janela, mas a janela em si não é a mesma coisa que o buffer: O buffer está contido na janela, mas a janela é existente por si só.
 
 Diferencie da seguinte maneira: Janela é o retângulo onde o texto é desenhado. Sempre existe pelo menos uma janela, mas nuca menos que isso. O buffer é um temporário acesso ao conteúdo de um arquivo, que será desenhado em uma ou mais janelas que forem selecionadas.
 
