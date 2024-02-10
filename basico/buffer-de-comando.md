@@ -4,7 +4,9 @@ Assim como explicado anteriormente, os buffers são uma visualização pra qualq
 
 Sim, e tem um que você provavelmente já usou, e nem percebeu: o buffer de comando. Digite a macro `M-x`. Onde o seu mouse foi parar (Provavelmente no canto inferior esquerdo) é esse tal Buffer de comando.
 
-[Buffer de Comando](../img/basico/buffer-de-comando/buffer-de-comando.png)
+<div align="center">
+    <img src="../img/basico/buffer-de-comando/buffer-de-comando.png">
+</div>
 
 O nome é auto-explicativo, o Buffer de Comando é o ponto de entrada para você, usuário. A partir dele, você pode executar comandos que interagem com o emacs.
 
