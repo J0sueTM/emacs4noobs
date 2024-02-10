@@ -17,7 +17,7 @@
 1. [Como o Emacs funciona](basico/como-o-emacs-funciona.md)
 2. [Key bindings](basico/key-bindings.md)
 3. [Buffers](basico/buffers.md)
-4. Command buffer
+4. [Buffer de Comando](basico/buffer-de-comando.md)
 
 ### Intermediário
 
